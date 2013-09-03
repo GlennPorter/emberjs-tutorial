@@ -1,0 +1,9 @@
+{
+  "name": "emberjs-tutorial",
+  "version": "0.0.1",
+  "description": "Ember.js TODO Tutorial",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~3.0.4"
+  }
+}
